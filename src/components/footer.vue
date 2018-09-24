@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <p>Made by Matthew Leandres - Source code: <a href="https://github.com/mleandres/github-favs">Github</a></p>
+    <p>Made by Matthew Leandres - Source code: <a href="https://github.com/mleandres/github-favs" target="_blank">Github</a></p>
   </div>
 </template>
 
