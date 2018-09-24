@@ -1,5 +1,7 @@
 # GitHub Repo Search and Favourite
 
+[Click here for the live app!](https://ml-github-favs.firebaseapp.com)
+
 > Web app to search and favourite Github repos
 
 ## Running
