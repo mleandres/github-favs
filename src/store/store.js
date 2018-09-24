@@ -1,7 +1,7 @@
 import axios from 'axios'
+import { GITHUB_API_KEY } from './data/token'
 
 const BASE_URL_REPO = 'https://api.github.com/search/repositories'
-const GITHUB_API_KEY = '91f02d084d1275e1016047584209564521ca82b3'
 const PER_PAGE = 10
 
 export default {
